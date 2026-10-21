@@ -26,6 +26,6 @@ Industrial automation taught me how things actually break. Most of what I build 
 
 ## Background
 
-Vertiv → AIRSYS → Daedalus Industrial → Mantis Innovation. Switchgear wiring to controls application engineering. Rockwell Studio 5000, FactoryTalk View, Ignition, Niagara, BACnet/Modbus. Ignition Core certified. Finishing a BS in IT (AI/ML and Data Analytics) at ECPI, February 2027.
+Vertiv → AIRSYS → Daedalus Industrial → Mantis Innovation. Switchgear wiring to controls application engineering. Rockwell Studio 5000, FactoryTalk View, Ignition, Niagara, BACnet/Modbus. Ignition Gold certified. Finishing a BS in IT (AI/ML and Data Analytics) at ECPI, February 2027.
 
 [Portfolio](https://addisontech.github.io) · [LinkedIn](https://linkedin.com/in/addison-smith-tech) · [Blog](https://addisonsmithdev.wordpress.com)
