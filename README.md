@@ -21,10 +21,18 @@ Industrial automation taught me how things actually break. Most of what I build 
 | Project | What it does |
 |---|---|
 | [bms-alarm-triage-agent](https://github.com/AddisonTech/bms-alarm-triage-agent) | Turns a raw BMS alarm queue into a short ranked list of what to look at first. ANSI/ISA-18.2 classification, deterministic core, LLM only at the explanation step |
+| [power-dashboard](https://github.com/AddisonTech/power-dashboard) | Simulated data center electrical system (utility, UPS, generator, ATS, PDUs) with Modbus collection, alarm management, and trending. Trigger an outage and hand the alarm flood to the triage agent. [Live demo](https://power-dashboard-vd3w.onrender.com) |
 | [Hyperbolic](https://github.com/AddisonTech/Hyperbolic) | AI supervisor on a simulated building district that tries to beat the stock control sequence on cost, emissions, and comfort. Deterministic safety envelope on every action. [Replay viewer](https://addisontech.github.io/Hyperbolic/) |
 | [Argus](https://github.com/AddisonTech/Argus) | Watches live Modbus registers for anomalies and explains them in plain English |
 | [Vision_Inspect](https://github.com/AddisonTech/Vision_Inspect) | Local VLM visual inspection — defect detection, OCR, anomaly classification |
 | [Smith_Agentic](https://github.com/AddisonTech/Smith_Agentic) | Local multi-agent system on CrewAI + Ollama. No cloud dependencies |
+
+## Other builds
+
+| Project | What it does |
+|---|---|
+| [Stoa](https://github.com/AddisonTech/Stoa) | Daily stock trading system that has to beat just holding SPY, on risk, before it touches real money. Pre-registered trials and walk-forward validation, with every result published. [Report](https://addisontech.github.io/Stoa/) |
+| [Easymoose-racing-software](https://github.com/AddisonTech/Easymoose-racing-software) | RFID chip timing for road races, built for my wife's running company. First live race: 18,344 tag reads, 143 finishers, results posted the same morning |
 
 ## Background
 
