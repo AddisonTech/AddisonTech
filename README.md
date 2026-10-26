@@ -14,7 +14,7 @@ Industrial automation taught me how things actually break. Most of what I build 
 | [Clio](https://github.com/AddisonTech/Clio) | Zero-infra SQLite time-series historian for the OT stack |
 | [ModBridge](https://github.com/AddisonTech/ModBridge) | Modbus TCP collector in Rust — live polling, CSV logging, REST API |
 | [Mnemosyne](https://github.com/AddisonTech/Mnemosyne) | Immutable Modbus register ledger; every poll hashed into a tamper-evident chain |
-| [Niagara_MCP](https://github.com/AddisonTech/Niagara_MCP) | Read-only MCP server for Tridium Niagara stations: AI access to points, alarms, and history, with no write path |
+| [Niagara_MCP](https://github.com/AddisonTech/Niagara_MCP) | MCP server for Tridium Niagara stations (points, BQL, alarms, history), imported from [mefodiytr/niagaramcp](https://github.com/mefodiytr/niagaramcp). I made it build standalone for Niagara 4.14 and 4.15 and fixed its alarm tools on the file-based alarm database |
 
 ## Applied AI for controls
 
